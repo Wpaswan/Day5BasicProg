@@ -18,4 +18,4 @@ TNC.GreatestNum();
 PowerOfTwo pt=new PowerOfTwo();
 pt.TwoPower();
 QuotientAndRemainder qr1=new QuotientAndRemainder();
-qr1.QR();
+qr1.QAndR();
