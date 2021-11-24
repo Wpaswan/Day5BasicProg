@@ -17,3 +17,5 @@ ThreeNumComparison TNC=new ThreeNumComparison();
 TNC.GreatestNum();
 PowerOfTwo pt=new PowerOfTwo();
 pt.TwoPower();
+QuotientAndRemainder qr1=new QuotientAndRemainder();
+qr1.QR();
