@@ -11,3 +11,7 @@ PrimeFactors obj=new PrimeFactors();
 obj.Prime();
 HarmonicNumber hn=new HarmonicNumber();
 hn.Harmonic();
+EvenOdd eo= new EvenOdd();
+eo.EvenOrOdd();
+ThreeNumComparison TNC=new ThreeNumComparison();
+TNC.GreatestNum();
