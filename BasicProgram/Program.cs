@@ -15,3 +15,5 @@ EvenOdd eo= new EvenOdd();
 eo.EvenOrOdd();
 ThreeNumComparison TNC=new ThreeNumComparison();
 TNC.GreatestNum();
+PowerOfTwo pt=new PowerOfTwo();
+pt.TwoPower();
