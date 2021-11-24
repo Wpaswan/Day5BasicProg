@@ -19,3 +19,5 @@ PowerOfTwo pt=new PowerOfTwo();
 pt.TwoPower();
 QuotientAndRemainder qr1=new QuotientAndRemainder();
 qr1.QAndR();
+SwappingNumbers sw=new SwappingNumbers();
+sw.swap();
